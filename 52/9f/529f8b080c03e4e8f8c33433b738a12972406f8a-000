@@ -1,0 +1,1697 @@
+---
+name: finish-prove-publish
+version: 2.0
+description: Transforme un travail créatif incertain en résultat fini, preuve visible et opportunité économique, sans sacrifier la profondeur, le sommeil ni la vie réelle.
+---
+
+# FINISH → PROVE → PUBLISH → SELL
+
+## 0. Mission
+
+Ce skill transforme une recherche, un jeu, un asset 3D, un outil, une application, un article, une vidéo ou une série d’images en :
+
+1. **résultat fermé** ;
+2. **preuve compréhensible** ;
+3. **présentation forte** ;
+4. **publication distribuée** ;
+5. **opportunité de revenu, de mission ou de collaboration** ;
+6. **apprentissage mesurable pour la prochaine version**.
+
+Il ne demande pas de produire au maximum à chaque instant.
+
+Il protège deux réalités simultanément :
+
+- un travail artistique et technique comporte de l’incertitude, de la recherche et de longues périodes de concentration ;
+- sans échéance, sans réduction du périmètre et sans sorties régulières, le potentiel reste invisible.
+
+> **La profondeur sans livraison reste privée.  
+> La livraison sans profondeur devient interchangeable.  
+> Le système recherche profondeur × cadence.**
+
+---
+
+# 1. Principes non négociables
+
+## 1.1 Le but n’est pas de se justifier
+
+Une preuve n’est pas créée pour convaincre sa famille, répondre à un jugement ou démontrer que l’on est intelligent.
+
+Elle sert à :
+
+- aider un utilisateur ;
+- rassurer un client ;
+- montrer une compétence ;
+- vendre un produit ;
+- attirer un partenaire ;
+- tester une hypothèse ;
+- construire un catalogue.
+
+> Le marché, les utilisateurs et les œuvres terminées constituent les preuves.  
+> Les longues explications ne les remplacent pas.
+
+---
+
+## 1.2 Le travail est incertain, pas indéfini
+
+Il est normal de ne pas connaître à l’avance :
+
+- la solution exacte ;
+- le nombre d’essais ;
+- l’architecture finale ;
+- la durée exacte d’une recherche complexe.
+
+Il n’est pas acceptable de ne jamais définir :
+
+- le problème étudié ;
+- un budget de temps ;
+- une date de décision ;
+- une version de sortie ;
+- un critère d’arrêt.
+
+Le skill planifie donc **des horizons et des décisions**, pas chaque minute d’un travail créatif.
+
+---
+
+## 1.3 Toute profondeur doit laisser un résidu
+
+Une séance de quatre heures consacrée à l’animation, Unreal Engine, Houdini, l’IA ou le japonais peut ne produire aucune publication immédiate.
+
+Elle reste valide si elle laisse au moins un résidu :
+
+- une note de synthèse ;
+- une décision ;
+- un test ;
+- un fichier d’exercice ;
+- un prototype ;
+- une liste de règles ;
+- une question résolue ;
+- un lien clair vers une future preuve.
+
+Exemple :
+
+```text
+J’apprends l’animation pendant quatre heures.
+Résidu : locomotion testée + trois principes compris.
+Destination : démonstration jouable vendredi prochain.
+```
+
+Une exploration sans résidu est une consommation.  
+Une exploration avec résidu devient du capital.
+
+---
+
+## 1.4 Aucun nouveau périmètre après le gel
+
+Une bonne idée découverte pendant la finition est classée dans :
+
+```text
+V2 / Plus tard
+```
+
+Elle ne bloque jamais la V1.
+
+> **La V1 prouve. La V2 approfondit.**
+
+---
+
+## 1.5 Les besoins matériels sont une infrastructure créative
+
+Le skill ne recommande jamais de sacrifier durablement :
+
+- le sommeil ;
+- un hébergement calme ;
+- une alimentation correcte ;
+- l’hygiène ;
+- la santé ;
+- les relations humaines essentielles.
+
+Ces éléments ne sont pas des distractions. Ils rendent le travail profond possible.
+
+Les tâches domestiques restent fonctionnelles, sans devenir un projet d’excellence.  
+Une preuve publiée au prix d’un épuisement permanent est un mauvais système.
+
+---
+
+# 2. Déclenchement
+
+Commande :
+
+```text
+/finish-publish
+```
+
+Entrée recommandée :
+
+```text
+Projet :
+Type :
+État actuel :
+Pourquoi il compte :
+Public visé :
+Destination économique :
+Date souhaitée :
+Temps disponible :
+Énergie actuelle :
+Contraintes :
+Éléments déjà existants :
+```
+
+Le skill pose **une seule question au maximum**, uniquement si l’absence de réponse bloque réellement la sortie.
+
+Dans les autres cas, il choisit une hypothèse raisonnable et l’indique.
+
+---
+
+# 3. Choisir la boucle principale
+
+Chaque exécution sélectionne une boucle principale. Une seule.
+
+## A. CASH — Freelance / service
+
+Objectif :
+
+- obtenir une mission ;
+- montrer une capacité à résoudre un problème ;
+- convertir une preuve en discussion commerciale.
+
+Sortie typique :
+
+- étude de cas ;
+- vidéo avant/après ;
+- offre claire ;
+- message ciblé ;
+- page de service.
+
+---
+
+## B. ASSET — Produit réutilisable
+
+Objectif :
+
+- transformer une solution en asset, outil, template ou application vendable plusieurs fois.
+
+Sortie typique :
+
+- page Fab ou Gumroad ;
+- documentation ;
+- démo ;
+- prix ;
+- licence ;
+- support défini.
+
+---
+
+## C. IP — Jeu / catalogue
+
+Objectif :
+
+- construire une propriété intellectuelle ;
+- démontrer une boucle de jeu ;
+- créer progressivement un catalogue de jeux.
+
+Sortie typique :
+
+- prototype fermé ;
+- vertical slice ;
+- build jouable ;
+- trailer ;
+- page itch.io ou Steam ;
+- test utilisateur.
+
+Un jeu long n’a pas besoin d’être entièrement terminé pour produire des preuves.  
+Il doit produire des unités fermées : mécanique, outil, scène, interface, combat, vertical slice ou build.
+
+---
+
+## D. AUTHORITY — Expertise / audience
+
+Objectif :
+
+- rendre une pensée complexe visible ;
+- attirer des professionnels ;
+- créer une réputation sur un sujet.
+
+Sortie typique :
+
+- article ;
+- vidéo ;
+- post ;
+- breakdown ;
+- tutoriel ;
+- analyse technique.
+
+---
+
+## E. LEARNING — Exploration stratégique
+
+Objectif :
+
+- acquérir une compétence nécessaire aux boucles précédentes.
+
+Cette boucle ne doit pas devenir un refuge permanent.
+
+Elle exige :
+
+- une question précise ;
+- un budget de temps ;
+- un résidu ;
+- une date de réévaluation ;
+- une destination probable.
+
+---
+
+# 4. L’échelle des preuves
+
+Toutes les preuves ne se valent pas.
+
+## Niveau 0 — Intention
+
+```text
+Je veux créer un outil.
+```
+
+Aucune preuve.
+
+## Niveau 1 — Résidu privé
+
+```text
+J’ai une note, un test, un prototype ou un fichier.
+```
+
+Preuve pour soi.
+
+## Niveau 2 — Preuve montrable
+
+```text
+Une personne extérieure peut comprendre le résultat.
+```
+
+Capture, vidéo, build ou étude de cas.
+
+## Niveau 3 — Preuve publique
+
+```text
+Le résultat possède une URL, une date et un public.
+```
+
+Portfolio, LinkedIn, ArtStation, GitHub, itch.io.
+
+## Niveau 4 — Preuve de marché
+
+```text
+Des personnes réagissent par une action significative.
+```
+
+Téléchargement, message, test, sauvegarde, demande, entretien.
+
+## Niveau 5 — Preuve économique
+
+```text
+Une personne paie ou signe une mission.
+```
+
+Vente, contrat, acompte, revenu.
+
+## Niveau 6 — Preuve de répétabilité
+
+```text
+Le résultat se reproduit sur plusieurs clients, produits ou mois.
+```
+
+C’est la véritable stabilité.
+
+Le skill indique toujours :
+
+- le niveau actuel ;
+- le niveau visé par cette exécution ;
+- l’étape suivante.
+
+---
+
+# 5. La machine à états
+
+Le projet passe par six états. Il ne doit pas rester constamment en recherche.
+
+## État 1 — EXPLORE
+
+But : comprendre le problème.
+
+Autorisé :
+
+- apprendre ;
+- comparer ;
+- tester ;
+- parler à des professionnels ;
+- recueillir des références ;
+- documenter.
+
+Obligatoire à la sortie :
+
+- synthèse ;
+- décision ;
+- prochain test ;
+- limite de temps.
+
+Question de sortie :
+
+```text
+Qu’est-ce que je sais maintenant que je ne savais pas avant ?
+```
+
+---
+
+## État 2 — ARCHITECT
+
+But : choisir une structure.
+
+Produire :
+
+- promesse ;
+- scénario principal ;
+- contraintes ;
+- architecture ;
+- définition de terminé ;
+- liste V2.
+
+Question de sortie :
+
+```text
+Quelle solution vais-je réellement construire ?
+```
+
+---
+
+## État 3 — BUILD
+
+But : créer le cœur fonctionnel.
+
+Règles :
+
+- longues sessions autorisées ;
+- interruptions minimisées ;
+- aucun packaging prématuré ;
+- aucune nouvelle fonctionnalité hors périmètre.
+
+Question de sortie :
+
+```text
+Le scénario principal fonctionne-t-il ?
+```
+
+---
+
+## État 4 — FINISH
+
+But : fermer la V1.
+
+Autorisé :
+
+- corriger les défauts bloquants ;
+- simplifier ;
+- stabiliser ;
+- rendre le résultat compréhensible ;
+- produire la documentation minimale.
+
+Interdit :
+
+- réinventer le concept ;
+- recommencer l’architecture ;
+- ajouter un système majeur ;
+- viser la qualité d’une production AAA complète.
+
+Question de sortie :
+
+```text
+Une personne extérieure peut-elle utiliser, regarder ou tester cette V1 ?
+```
+
+---
+
+## État 5 — PACKAGE & PUBLISH
+
+But : transformer le travail en objet visible.
+
+Produire :
+
+- titre ;
+- pitch ;
+- visuels ;
+- vidéo ;
+- page permanente ;
+- publication courte ;
+- appel à l’action ;
+- lien testé.
+
+Question de sortie :
+
+```text
+Le travail existe-t-il maintenant hors de mon ordinateur ?
+```
+
+---
+
+## État 6 — DISTRIBUTE & SELL
+
+But : faire circuler la preuve.
+
+Produire :
+
+- publication principale ;
+- messages ciblés ;
+- partage communautaire pertinent ;
+- suivi ;
+- mesure ;
+- offre ou prochaine action.
+
+Question de sortie :
+
+```text
+Qui a reçu cette preuve et quelle action peut-il accomplir ?
+```
+
+---
+
+# 6. Le protocole du toboggan
+
+Ce protocole protège les longues phases de concentration sans permettre un projet éternel.
+
+## 6.1 La montée — recherche et planification
+
+La montée peut être lente.
+
+Définir :
+
+- la question ;
+- le risque principal ;
+- un budget de temps ;
+- le résidu attendu.
+
+Exemple :
+
+```text
+Je consacre quatre heures à comprendre le retargeting.
+Je m’arrête avec une décision, même si la solution n’est pas parfaite.
+```
+
+---
+
+## 6.2 Le sommet — décision et gel
+
+Au sommet :
+
+- une direction est choisie ;
+- le périmètre est gelé ;
+- les alternatives sont archivées ;
+- la date de sortie est fixée.
+
+Le sommet constitue le point de non-retour de la V1.
+
+---
+
+## 6.3 La descente — exécution profonde
+
+La descente utilise des blocs longs quand le travail l’exige :
+
+- 2 à 4 heures ;
+- parfois davantage si l’énergie reste bonne ;
+- un seul problème principal ;
+- téléphone et notifications coupés ;
+- point de reprise écrit à la fin.
+
+Le skill ne découpe pas artificiellement une architecture complexe en fragments d’une heure.
+
+---
+
+## 6.4 L’atterrissage — synthèse et fermeture
+
+Chaque session se termine par :
+
+```text
+Fait :
+Décidé :
+Bloqué :
+Prochaine action :
+Fichiers / liens :
+```
+
+Cela réduit le coût de reprise et protège la mémorisation.
+
+---
+
+# 7. Travailler selon l’énergie réelle
+
+Il n’est pas nécessaire de rentrer à 20 h, se laver, puis produire immédiatement un produit complet.
+
+Le skill choisit un mode.
+
+## Mode VERT — énergie haute
+
+Durée : 2 à 4 heures.
+
+Utiliser pour :
+
+- architecture ;
+- programmation ;
+- art difficile ;
+- résolution de problème ;
+- création du cœur.
+
+Sortie : avancée fonctionnelle importante.
+
+---
+
+## Mode ORANGE — énergie moyenne
+
+Durée : 45 à 90 minutes.
+
+Utiliser pour :
+
+- correction ciblée ;
+- capture ;
+- montage ;
+- documentation ;
+- page produit ;
+- post ;
+- relance commerciale.
+
+Sortie : une étape de fermeture.
+
+---
+
+## Mode ROUGE — énergie basse
+
+Durée : 10 à 25 minutes.
+
+Utiliser pour :
+
+- sauvegarder ;
+- écrire le point de reprise ;
+- sélectionner trois captures ;
+- nommer les fichiers ;
+- programmer la première tâche du lendemain ;
+- envoyer une relance simple ;
+- se coucher.
+
+Sortie : continuité, pas héroïsme.
+
+> La discipline signifie choisir la bonne action pour l’énergie disponible, pas maximiser chaque soirée.
+
+---
+
+# 8. Définir la preuve avant de travailler
+
+Formule obligatoire :
+
+```text
+Je livre [résultat concret]
+à [public précis]
+pour démontrer / vendre [valeur]
+avant [date et heure]
+sur [page permanente]
+puis je le distribue via [canal principal].
+```
+
+Exemple :
+
+```text
+Je livre une démo vidéo de 50 secondes de mon générateur Houdini
+aux studios utilisant Unreal Engine
+pour démontrer une réduction du temps de création d’environnements
+vendredi à 18 h
+sur mon portfolio
+puis je la distribue sur LinkedIn.
+```
+
+---
+
+# 9. Geler le périmètre
+
+Créer quatre catégories.
+
+## 9.1 Cœur obligatoire
+
+Maximum cinq éléments.
+
+Ce qui permet au résultat d’exister.
+
+## 9.2 Compréhension obligatoire
+
+Ce qui permet à une personne extérieure de comprendre :
+
+- pitch ;
+- capture ;
+- exemple ;
+- documentation minimale.
+
+## 9.3 Bonus sous contrainte
+
+Seulement si le cœur est fermé et si le temps reste disponible.
+
+## 9.4 V2 / Plus tard
+
+Tout ce qui :
+
+- augmente fortement la durée ;
+- ne modifie pas le scénario principal ;
+- n’améliore pas immédiatement la vente ou la compréhension ;
+- provient d’une nouvelle inspiration.
+
+---
+
+# 10. Définition de “terminé”
+
+Une V1 est terminée quand :
+
+- le scénario principal fonctionne ;
+- aucun défaut critique n’empêche son usage ou sa démonstration ;
+- sa valeur se comprend en dix secondes ;
+- les limitations sont honnêtement indiquées ;
+- un visuel principal existe ;
+- le fichier ou lien fonctionne ;
+- le titre et la description sont prêts ;
+- l’appel à l’action est clair ;
+- la date de publication ne dépend plus d’une nouvelle fonctionnalité.
+
+La V1 peut être imparfaite.  
+Elle ne peut pas être incompréhensible ou inutilisable.
+
+---
+
+# 11. Audit de finition
+
+Noter chaque catégorie sur 10.
+
+| Catégorie | Question |
+|---|---|
+| Fonction | Le cœur fonctionne-t-il ? |
+| Clarté | La valeur est-elle comprise en dix secondes ? |
+| Présentation | Le premier visuel arrête-t-il le regard ? |
+| Singularité | Quelle décision montre mon goût ou mon intelligence ? |
+| Crédibilité | Le travail démontre-t-il réellement une compétence ? |
+| Packaging | Les fichiers, liens et instructions sont-ils propres ? |
+| Audience | Le public choisi a-t-il une raison de regarder ? |
+| Conversion | Peut-il acheter, tester, répondre ou me contacter ? |
+| Réutilisation | Puis-je dériver plusieurs preuves de ce travail ? |
+| Mesure | Les critères à 7 et 30 jours sont-ils définis ? |
+
+Décision :
+
+- **80–100** : publier ;
+- **65–79** : corriger uniquement les deux faiblesses les plus importantes, puis publier ;
+- **moins de 65** : réduire le périmètre, pas rallonger indéfiniment le calendrier.
+
+---
+
+# 12. Calendrier inverse
+
+Le skill part de l’heure de sortie.
+
+## J-7 à J-4 — Fermer le cœur
+
+- scénario principal ;
+- architecture ;
+- bugs bloquants ;
+- réduction du périmètre.
+
+## J-3 — Produire la preuve visuelle
+
+- capture principale ;
+- avant/après ;
+- vidéo courte ;
+- résultat en contexte.
+
+## J-2 — Packager
+
+- titre ;
+- pitch ;
+- documentation ;
+- prix ou modalité ;
+- page permanente.
+
+## J-1 — Préparer la circulation
+
+- post principal ;
+- deux variantes courtes ;
+- liste de contacts ;
+- vérification mobile ;
+- liens testés.
+
+## Jour J — Publier
+
+- page permanente d’abord ;
+- canal principal ensuite ;
+- trois à dix envois ciblés ;
+- réponse aux retours utiles.
+
+## J+2 à J+7 — Redistribuer
+
+Ne pas tout publier au même moment.
+
+- extrait différent ;
+- breakdown ;
+- making-of ;
+- résultat chiffré ;
+- rappel ciblé ;
+- message à une communauté pertinente.
+
+## J+7 et J+30 — Mesurer
+
+- traction ;
+- conversations ;
+- téléchargements ;
+- ventes ;
+- opportunités ;
+- décision V2, maintien ou pivot.
+
+---
+
+# 13. Le cycle de circulation de la preuve
+
+```text
+Créer
+→ Fermer
+→ Montrer
+→ Héberger
+→ Distribuer
+→ Convertir
+→ Mesurer
+→ Réutiliser
+→ Améliorer
+```
+
+## 13.1 Créer
+
+Construire le cœur.
+
+## 13.2 Fermer
+
+Décider que la V1 ne reçoit plus de fonctionnalité.
+
+## 13.3 Montrer
+
+Créer le visuel, la vidéo ou le build.
+
+## 13.4 Héberger
+
+Choisir une page permanente.
+
+## 13.5 Distribuer
+
+Utiliser un canal principal et éventuellement un canal secondaire.
+
+## 13.6 Convertir
+
+Proposer une action claire.
+
+## 13.7 Mesurer
+
+Observer les signaux utiles, pas seulement les likes.
+
+## 13.8 Réutiliser
+
+Transformer un même travail en plusieurs formats.
+
+## 13.9 Améliorer
+
+Construire la V2 à partir des retours, pas de l’anxiété.
+
+---
+
+# 14. Choisir les canaux
+
+Ne jamais publier partout par défaut.
+
+Utiliser :
+
+- **une page permanente** ;
+- **un canal principal** ;
+- **un canal secondaire facultatif** ;
+- **une action directe**.
+
+## 14.1 Clients Technical Art / 3D
+
+Page permanente :
+
+- site personnel ;
+- ArtStation ;
+- étude de cas.
+
+Canal principal :
+
+- LinkedIn.
+
+Action directe :
+
+- message à des studios, producteurs ou responsables techniques.
+
+Secondaire :
+
+- communautés Unreal, Houdini ou Discord spécialisées.
+
+---
+
+## 14.2 Asset ou outil
+
+Page permanente :
+
+- Fab ;
+- Gumroad ;
+- GitHub selon le produit.
+
+Canal principal :
+
+- LinkedIn ou communauté technique pertinente.
+
+Secondaire :
+
+- vidéo courte, ArtStation ou forum spécialisé.
+
+Action directe :
+
+- envoyer à des utilisateurs potentiels ou créateurs concernés.
+
+---
+
+## 14.3 Jeu / prototype
+
+Page permanente :
+
+- itch.io pour prototype ;
+- Steam pour produit commercial mûr ;
+- site du projet.
+
+Canal principal :
+
+- vidéo de gameplay ou devlog.
+
+Secondaire :
+
+- LinkedIn pour l’angle production ;
+- Discord ou communauté pour les tests ;
+- YouTube pour la démonstration durable.
+
+Action directe :
+
+- recruter des testeurs et recueillir un feedback précis.
+
+---
+
+## 14.4 Photos / art visuel
+
+Page permanente :
+
+- portfolio ;
+- ArtStation ;
+- site personnel.
+
+Canal principal :
+
+- Instagram ou plateforme où l’audience visuelle existe déjà.
+
+Secondaire :
+
+- LinkedIn uniquement si le projet soutient une identité professionnelle.
+
+---
+
+# 15. Pack de visibilité
+
+Chaque sortie prépare :
+
+## 15.1 Titre
+
+Orienté résultat, problème ou singularité.
+
+Mauvais :
+
+```text
+Mon nouvel outil
+```
+
+Meilleur :
+
+```text
+A Houdini Tool for Building Stylized Roads Directly in Unreal Engine
+```
+
+---
+
+## 15.2 Accroche
+
+Une phrase.
+
+```text
+J’ai construit X pour résoudre Y sans Z.
+```
+
+---
+
+## 15.3 Preuve immédiate
+
+Choisir un format :
+
+- avant/après ;
+- interaction en temps réel ;
+- résultat final ;
+- comparaison ;
+- workflow en trois étapes ;
+- chiffre crédible ;
+- build testable.
+
+---
+
+## 15.4 Contexte
+
+Expliquer brièvement :
+
+- le problème ;
+- la contrainte ;
+- la décision ;
+- le résultat ;
+- la limite.
+
+---
+
+## 15.5 Appel à l’action
+
+Une seule action :
+
+- tester ;
+- acheter ;
+- me contacter ;
+- commenter un point précis ;
+- proposer une mission ;
+- rejoindre une liste ;
+- devenir testeur.
+
+---
+
+# 16. Transformer une recherche en plusieurs sorties
+
+Une idée forte peut produire :
+
+1. un prototype privé ;
+2. une vidéo de 30 à 90 secondes ;
+3. un post LinkedIn ;
+4. une étude de cas ArtStation ;
+5. un article ;
+6. un asset ou outil payant ;
+7. un asset, un module ou une brique réutilisable ;
+8. une offre freelance.
+
+Le but n’est pas de créer huit idées.
+
+> **Créer une fois. Extraire plusieurs preuves.**
+
+---
+
+# 17. Boucles économiques
+
+## 17.1 Freelance — revenu immédiat
+
+```text
+Problème client
+→ solution
+→ preuve
+→ étude de cas
+→ relance
+→ mission
+→ témoignage
+```
+
+Le freelance finance le temps de création et donne accès à des problèmes réels.
+
+---
+
+## 17.2 Asset — revenu récurrent potentiel
+
+```text
+Solution répétée
+→ généralisation
+→ packaging
+→ vente
+→ support limité
+→ mises à jour
+```
+
+Avant de produire, vérifier :
+
+- qui paie ;
+- pourquoi ;
+- quelle alternative existe ;
+- quelle économie de temps est créée.
+
+---
+
+## 17.3 Jeu — propriété intellectuelle
+
+```text
+Mécanique
+→ prototype
+→ test
+→ vertical slice
+→ audience
+→ produit
+→ catalogue
+```
+
+Ne pas attendre le jeu final pour publier une preuve.  
+Ne pas non plus transformer chaque détail du jeu en contenu public sans stratégie.
+
+Choisir les éléments montrables qui :
+
+- prouvent la qualité ;
+- recrutent des testeurs ;
+- attirent des partenaires ;
+- ne détruisent pas la surprise centrale.
+
+---
+
+## 17.4 Travail non rémunéré
+
+Tout projet est classé :
+
+- **payé** ;
+- **stratégique** ;
+- **spéculatif** ;
+- **loisir**.
+
+Un projet non payé doit avoir :
+
+- un plafond d’heures ;
+- une compétence précise ;
+- une preuve attendue ;
+- un accès à une personne ou un marché ;
+- une date de sortie.
+
+Sans cela, il ne résout pas le problème économique.
+
+---
+
+# 18. Cadence sans panique
+
+À 26 ans, l’urgence existe. Elle ne justifie pas l’agitation permanente.
+
+Cadence par défaut :
+
+- **chaque semaine** : une preuve montrable ou une sortie publique ;
+- **chaque jour ouvré** : une action commerciale courte ;
+- **chaque mois** : un élément fermé et une mesure économique ;
+- **chaque trimestre** : une preuve dure — client, revenu, produit, build ou partenariat ;
+- **tous les 90 jours** : décision continuer, réduire, pivoter ou arrêter.
+
+Pour un projet long, la preuve hebdomadaire peut être :
+
+- une capture ;
+- un test ;
+- une note technique ;
+- un mini-breakdown ;
+- une version privée montrable.
+
+Elle n’a pas besoin d’être une grande publication.
+
+---
+
+# 19. Runway et résultats
+
+Le skill demande :
+
+```text
+Économies disponibles :
+Coût mensuel minimal :
+Mois de runway :
+Revenu minimum à atteindre :
+Date du prochain checkpoint :
+```
+
+Règles :
+
+- ne pas attendre la fin du runway pour chercher des clients ;
+- protéger plusieurs mois de sécurité ;
+- augmenter la part CASH si le runway baisse ;
+- maintenir une petite part IP pour continuer à construire des projets propriétaires ;
+- ne jamais prétendre qu’un revenu potentiel est déjà acquis.
+
+Exemple de répartition ajustable :
+
+```text
+Runway confortable : 50 % CASH / 30 % ASSET / 20 % IP
+Runway moyen :       65 % CASH / 25 % ASSET / 10 % IP
+Runway faible :      80 % CASH / 15 % ASSET / 5 % IP
+```
+
+---
+
+# 20. Profondeur contre exécution
+
+Le skill sépare deux rôles.
+
+## L’Architecte
+
+Il :
+
+- cherche ;
+- comprend ;
+- compare ;
+- construit les systèmes ;
+- protège la qualité ;
+- pense à long terme.
+
+## Le Publieur
+
+Il :
+
+- réduit ;
+- choisit ;
+- formule ;
+- termine ;
+- distribue ;
+- mesure.
+
+Règle :
+
+```text
+L’Architecte reçoit un budget.
+Le Publieur reçoit une date.
+```
+
+L’Architecte ne peut pas rouvrir la V1 après le gel.  
+Le Publieur ne peut pas dégrader le cœur au point de le rendre vide.
+
+Le profil profond ne gagne pas en devenant superficiel.  
+Il gagne en donnant une forme visible à sa profondeur.
+
+---
+
+# 21. Anti-perfectionnisme et anti-auto-illusion
+
+Le skill détecte :
+
+- nouvelle fonctionnalité avant la publication ;
+- recherche répétée sans nouvelle décision ;
+- comparaison avec Kojima, Rockstar ou une production AAA pour juger une V1 solo ;
+- polish invisible ;
+- refonte de dernière minute ;
+- changement de plateforme sans nécessité ;
+- apprentissage infini sans destination ;
+- publication différée sans nouvelle date exacte ;
+- affirmation de potentiel sans mesure externe ;
+- travail non payé sans plafond ;
+- activité intense sans page, lien ou utilisateur.
+
+Réponse du skill :
+
+```text
+Cette amélioration appartient à la V2.
+La V1 sort à la date prévue.
+La prochaine preuve recherchée est : [niveau].
+```
+
+---
+
+# 22. Feedback et vérité externe
+
+Après publication, demander un feedback précis.
+
+Mauvais :
+
+```text
+Qu’en pensez-vous ?
+```
+
+Meilleur :
+
+```text
+Comprenez-vous l’utilité dans les dix premières secondes ?
+Quelle étape du workflow semble trop compliquée ?
+Paieriez-vous pour gagner ce temps ?
+Qu’est-ce qui vous empêcherait de l’utiliser ?
+```
+
+Distinguer :
+
+- compliment ;
+- intérêt ;
+- intention ;
+- action ;
+- paiement.
+
+Un like n’est pas une vente.  
+Un compliment n’est pas une validation de marché.  
+Un silence n’est pas nécessairement un échec produit : il peut signaler un mauvais packaging ou une distribution insuffisante.
+
+---
+
+# 23. Règles de décision après publication
+
+## À J+7
+
+Observer :
+
+- compréhension ;
+- engagement utile ;
+- messages ;
+- téléchargements ;
+- tests ;
+- demandes.
+
+Décider :
+
+- améliorer le message ;
+- changer le visuel ;
+- contacter directement ;
+- corriger un défaut critique.
+
+## À J+30
+
+Observer :
+
+- ventes ;
+- missions ;
+- utilisateurs actifs ;
+- retours répétés ;
+- opportunités.
+
+Décider :
+
+- V2 ;
+- nouvelle distribution ;
+- changement de prix ;
+- transformation en service ;
+- arrêt.
+
+## Après trois cycles sans signal
+
+Ne pas travailler automatiquement plus longtemps.
+
+Tester successivement :
+
+1. le public ;
+2. la promesse ;
+3. le visuel ;
+4. le canal ;
+5. le prix ;
+6. le produit.
+
+---
+
+# 24. Protocoles par type
+
+## 24.1 Jeu ou prototype
+
+Minimum publiable :
+
+- boucle de 3 à 10 minutes ;
+- début et fin ;
+- une promesse de jeu identifiable ;
+- aucun blocage majeur ;
+- vidéo de 30 à 90 secondes ;
+- cinq captures ;
+- pitch d’une phrase ;
+- build ou formulaire de test ;
+- question de feedback précise.
+
+Reporter en V2 :
+
+- nouveau niveau ;
+- lore supplémentaire ;
+- système secondaire ;
+- refonte graphique complète ;
+- contenu massif.
+
+---
+
+## 24.2 Asset 3D
+
+Minimum publiable :
+
+- rendu principal fort ;
+- vues secondaires ;
+- wireframe ;
+- textures et résolutions ;
+- formats ;
+- compatibilité ;
+- fichier propre ;
+- licence ;
+- documentation courte ;
+- cas d’usage ;
+- prix ou téléchargement.
+
+---
+
+## 24.3 Outil Unreal / Houdini / Blueprint
+
+Minimum publiable :
+
+- problème précis ;
+- avant/après ;
+- workflow simple ;
+- scénario principal stable ;
+- limitations ;
+- installation ;
+- projet exemple ;
+- vidéo ;
+- offre ou lien.
+
+---
+
+## 24.4 Application
+
+Minimum publiable :
+
+- utilisateur cible ;
+- problème principal ;
+- parcours fonctionnel ;
+- état vide et erreurs principales ;
+- vidéo ;
+- lien ou build ;
+- politique de prix ou test ;
+- moyen de contact.
+
+---
+
+## 24.5 Article ou post
+
+Minimum publiable :
+
+- une thèse ;
+- une accroche ;
+- un exemple ;
+- une preuve ;
+- une limite ;
+- une conclusion ;
+- une action.
+
+Structure :
+
+```text
+Problème
+→ observation
+→ décision
+→ démonstration
+→ résultat
+→ limite
+→ leçon
+```
+
+---
+
+## 24.6 Photo ou vidéo
+
+Minimum publiable :
+
+- sélection courte ;
+- cohérence ;
+- correction suffisante ;
+- titre ;
+- intention ;
+- ordre ;
+- contexte ;
+- canal ;
+- date.
+
+Publier 5 à 10 images fortes plutôt que 40 moyennes.
+
+---
+
+# 25. Mode urgence — 24 heures
+
+## 0–30 min
+
+- choisir la boucle ;
+- nommer la preuve ;
+- fixer l’heure ;
+- geler le périmètre.
+
+## 30 min–4 h
+
+- fermer le cœur ;
+- supprimer les fonctionnalités non essentielles ;
+- corriger uniquement les défauts bloquants.
+
+## 4–6 h
+
+- captures ;
+- vidéo ;
+- visuel principal.
+
+## 6–8 h
+
+- titre ;
+- pitch ;
+- documentation ;
+- page.
+
+## 8–9 h
+
+- vérification ;
+- publication ;
+- trois messages ciblés.
+
+Si l’énergie chute, passer en mode ORANGE ou ROUGE au lieu de détruire le sommeil.
+
+---
+
+# 26. Sortie obligatoire du skill
+
+Chaque exécution produit exactement les sections suivantes.
+
+## 1. Diagnostic
+
+```text
+État actuel :
+Boucle principale :
+Niveau de preuve actuel :
+Niveau visé :
+Risque principal :
+```
+
+## 2. Preuve à livrer
+
+Une phrase précise.
+
+## 3. Date et heure
+
+Échéance exacte, plus checkpoint intermédiaire.
+
+## 4. Périmètre gelé
+
+Maximum cinq éléments.
+
+## 5. Définition de terminé
+
+Checklist adaptée au type de projet.
+
+## 6. Plan du toboggan
+
+```text
+Montée :
+Sommet :
+Descente :
+Atterrissage :
+```
+
+## 7. Plan selon l’énergie
+
+```text
+Mode VERT :
+Mode ORANGE :
+Mode ROUGE :
+```
+
+## 8. Tâches critiques
+
+Ordonnées, avec estimation et dépendances.
+
+## 9. V2 / Plus tard
+
+Liste explicite.
+
+## 10. Pack de visibilité
+
+```text
+Titre :
+Accroche :
+Preuve visuelle :
+Page permanente :
+Canal principal :
+Canal secondaire :
+CTA :
+```
+
+## 11. Plan de circulation
+
+```text
+Jour J :
+J+2 :
+J+7 :
+J+30 :
+Messages directs :
+```
+
+## 12. Destination économique
+
+```text
+CASH / ASSET / IP / AUTHORITY / LEARNING
+Action attendue :
+```
+
+## 13. Critères de succès
+
+```text
+À 7 jours :
+À 30 jours :
+Seuil de pivot :
+```
+
+## 14. Résidu de session
+
+Ce qui doit exister même si la séance ne produit pas de publication.
+
+## 15. Première action
+
+Une action de moins de vingt minutes.
+
+---
+
+# 27. Prompt d’exécution
+
+```text
+Exécute le skill FINISH → PROVE → PUBLISH → SELL.
+
+Projet :
+Type :
+État actuel :
+Pourquoi il compte :
+Public visé :
+Destination économique :
+Date souhaitée :
+Temps disponible :
+Énergie actuelle :
+Contraintes :
+Éléments déjà existants :
+Runway ou contrainte financière :
+
+Ta mission :
+1. déterminer le niveau de preuve actuel ;
+2. choisir une seule boucle principale ;
+3. protéger le travail profond sans accepter un horizon indéfini ;
+4. construire le protocole du toboggan ;
+5. réduire et geler la V1 ;
+6. définir une date et une heure de sortie ;
+7. préparer la page permanente, le canal principal et le CTA ;
+8. construire la circulation jusqu’à J+30 ;
+9. définir les critères économiques et le seuil de pivot ;
+10. donner une première action de moins de vingt minutes.
+
+Contraintes :
+- Une seule question si elle bloque réellement.
+- Aucun nouveau système dans la V1.
+- Ne pas exiger une publication après chaque séance d’apprentissage.
+- Exiger un résidu après chaque séance.
+- Ne pas sacrifier le sommeil ou la santé pour une preuve mineure.
+- Ne pas publier partout.
+- Séparer l’Architecte du Publieur.
+- Transformer la profondeur en résultat visible.
+```
+
+---
+
+# 28. Exemple très court : retour à 20 h
+
+```text
+Projet : outil Unreal.
+Énergie : basse.
+Date : vendredi 18 h.
+```
+
+Le skill ne répond pas :
+
+```text
+Travaille au maximum ce soir.
+```
+
+Il répond :
+
+```text
+Mode ROUGE — 20 minutes.
+1. Prends trois captures du résultat actuel.
+2. Écris le problème résolu en une phrase.
+3. Note le bug bloquant de demain.
+4. Ferme le projet.
+5. Douche, repas, sommeil.
+```
+
+Le lendemain, en mode VERT, le cœur est finalisé.  
+La continuité vaut mieux qu’une soirée forcée.
+
+---
+
+# 29. Exemple : catalogue d’assets
+
+```text
+Boucle : ASSET.
+Preuve actuelle : outil fonctionnel en interne, niveau 1.
+Preuve visée : page produit publique + démonstration, niveau 4.
+Périmètre : une fonction principale clairement utile.
+Date : dans sept jours.
+```
+
+Sortie :
+
+- asset propre et installable ;
+- projet ou fichier exemple ;
+- vidéo avant/après de 45 secondes ;
+- cinq visuels lisibles ;
+- documentation minimale ;
+- page Gumroad ou Fab ;
+- message à dix utilisateurs potentiels.
+
+V2 :
+
+- fonctionnalités secondaires ;
+- variantes supplémentaires ;
+- refonte complète de l’interface ;
+- compatibilité avec d’autres pipelines ;
+- documentation avancée.
+
+---
+
+# 30. Couverture des feedbacks intégrés
+
+Le skill intègre explicitement :
+
+- la nécessité de résultats avant un horizon lointain ;
+- la différence entre travail incertain et travail sans cadre ;
+- les longues périodes de concentration ;
+- la métaphore montée / sommet / descente / synthèse ;
+- l’apprentissage qui ne produit rien de public immédiatement ;
+- l’obligation de laisser un résidu ;
+- le besoin de publier sans devenir superficiel ;
+- la séparation entre l’Architecte et le Publieur ;
+- la peur qu’un exécutant moins profond gagne l’attention ;
+- la transformation d’une idée en plusieurs preuves ;
+- la circulation page permanente → réseau → contact → conversion ;
+- la sélection des canaux au lieu de publier partout ;
+- les boucles freelance, catalogue d’assets et jeu ;
+- la distinction potentiel, preuve, paiement et répétabilité ;
+- le besoin de logement, nourriture, sommeil et relations ;
+- les soirées à faible énergie ;
+- la limitation du travail non rémunéré ;
+- l’urgence financière sans panique ;
+- l’usage de l’IA comme levier, jamais comme substitut au goût ;
+- la nécessité de mesurer, pivoter et arrêter quand les preuves ne viennent pas ;
+- le fait que la finalité n’est pas de se justifier auprès des autres.
+
+---
+
+# Principe final
+
+> **Comprendre profondément.  
+> Choisir clairement.  
+> Construire longtemps quand il le faut.  
+> Fermer sans négocier.  
+> Publier avec intention.  
+> Distribuer jusqu’au marché.  
+> Mesurer sans ego.  
+> Recommencer plus fort.**
